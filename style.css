@@ -1,0 +1,19 @@
+section {
+    min-height: 200px;
+    
+}
+.about h3,
+h5 {
+    margin-top: 50px;
+}
+
+.slider h3,
+.slider h5
+ {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5); 
+}
+
+.data {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
